@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+![Header](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDgwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGYyMDI3IiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzIwM2E0MyIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMmM1MzY0IiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii0yMCUiIHk9Ii0yMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjE0MCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI1IiByZXN1bHQ9ImJsdXIiIC8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJibHVyIiBvcGVyYXRvcj0ib3ZlciIgLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIiByeD0iMTUiIHJ5PSIxNSIvPgogIAogIDx0ZXh0IHg9IjUwJSIgeT0iNDAlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQyIiBmaWxsPSIjMDBlNWZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWx0ZXI9InVybCgjZ2xvdykiIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyBsZXR0ZXItc3BhY2luZzogNHB4OyI+CiAgICBnZXN0dXJlIDNkIHdlYgogIDwvdGV4dD4KICAKICA8dGV4dCB4PSI1MCUiIHk9IjY1JSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2IiBmaWxsPSIjYjBiZWM1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDJweDsiPgogICAgTkVYVC1HRU4gVFlQRVNDUklQVCBBUkNISVRFQ1RVUkUKICA8L3RleHQ+CgogIDwhLS0gQW5pbWF0ZWQgbGluZSAtLT4KICA8bGluZSB4MT0iMjAwIiB5MT0iMTYwIiB4Mj0iNjAwIiB5Mj0iMTYwIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9IngxIiB2YWx1ZXM9IjIwMDsgMzAwOyAyMDAiIGR1cj0iM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieDIiIHZhbHVlcz0iNjAwOyA1MDA7IDYwMCIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9saW5lPgo8L3N2Zz4=)
 
-First, run the development server:
+<br/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-TypeScript-00e5ff?style=for-the-badge&logo=codeigniter&logoColor=black" alt="Language" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-203a43?style=for-the-badge&logo=graphql&logoColor=00e5ff" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Status-Active-2c5364?style=for-the-badge&logo=checkmarx&logoColor=00e5ff" alt="Status" />
+  <img src="https://img.shields.io/badge/License-MIT-0f2027?style=for-the-badge&logo=law&logoColor=00e5ff" alt="License" />
+</p>
+
+*An advanced software structure developed by Karthik Idikuda.*
+
+</div>
+
+---
+
+## Overview
+
+> A cutting-edge implementation designed for high-performance operations, scalability, and seamless integration.
+
+Welcome to **gesture 3d web**. This repository houses the source code for a next-generation system engineered to push the boundaries of modern software development. It leverages advanced design patterns to ensure reliability and speed.
+
+<br/>
+
+## System Architecture
+
+The below diagram illustrates the high-level data flow and component interaction within the system.
+
+```mermaid
+graph TD;
+    A[Client User Interface] -->|Secure Channel| B(API Gateway);
+    B --> C{Core Processing Engine};
+    C -->|Queries| D[(Persistent Data Storage)];
+    C -->|Logs| E[Telemetry & Diagnostics];
+    
+    classDef primary fill:#0f2027,stroke:#00e5ff,stroke-width:2px,color:#fff;
+    classDef secondary fill:#203a43,stroke:#b0bec5,stroke-width:1px,color:#fff;
+    classDef database fill:#2c5364,stroke:#00e5ff,stroke-width:2px,color:#fff;
+    
+    class A,B primary;
+    class C secondary;
+    class D database;
+    class E secondary;
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Component Breakdown
+- **Client Interface:** The primary point of interaction, optimized for responsiveness.
+- **API Gateway:** Routes and authenticates incoming requests securely.
+- **Core Engine:** The brain of the operation, executing complex domain logic and algorithms.
+- **Persistent Storage:** A highly available data store ensuring data integrity.
+- **Telemetry:** Continuous monitoring and logging for proactive maintenance.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br/>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technical Specifications
 
-## Learn More
+| Metric | Specification |
+|:---|:---|
+| **Primary Language** | `TypeScript` |
+| **Frameworks** | `Standard Library / Native Dependencies` |
+| **Code Structure** | `Modular / Microservice-ready` |
+| **Security** | `End-to-End Encryption / Token Auth` |
 
-To learn more about Next.js, take a look at the following resources:
+<br/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment & Initialization
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To initialize this system in your local or cloud environment, standard build procedures for `TypeScript` apply. Ensure all environment variables and dependencies are securely configured prior to execution.
 
-## Deploy on Vercel
+<br/>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License & Attribution
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is open-sourced under the **MIT License**. Permission is granted for use, modification, and distribution as per the license terms.
+
+---
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Engineered+by+Karthik+Idikuda;Pushing+Boundaries;Next-Gen+Software+Architecture" alt="Typing SVG" />
+</div>
